@@ -36,7 +36,7 @@ def reformat_elem(elem, level=0, strip_text_newline=False,
         if elem.tail and not elem.tail.strip():
             elem.tail = None
     elif level:
-        if not elem.tail and elem.tail.strip():
+        if not elem.tail or not elem.tail.strip():
             elem.tail = '\n' + ' ' * level
 
     for sub_elem in elem:

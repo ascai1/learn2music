@@ -1,0 +1,544 @@
+e ed|c ab| fab|cdcd|e ed|ca b| gG |Fe c|   a major
+dneg g fg|agecbcef| fg g fc|dcbdffac|cbb g fg|agecbcec|dd d ccb|cbbddbbf|     e major
+    c cc|  a a fa|b   c cc|  a a fa|b g c cc|  a a fa|g f e de|  f e de|	b minor (#1)
+   bdeed|e edef e|    deed|e edA  e|  e deed|e ede   |deedf gf|e ede   |	b minor (#2)
+A|A B |efed| e d|d bd| e b|c ba| b a|a   A|A B |efed| e d|d bd| e  |bcba| b  |d   |     d major
+ee|efa |afeC| BB |BCBe|efa |afeE| CCB| B e|efa      a major (ab major?)
+gg f  ed|d eddabd|BA A  ed|d edd   | d major (allegretto)
+c de|c aa bab|a   c de|c aa bb |a   c de|fn   e   |d   a   |f   e   |d   a bb|  cc      a major
+fnfgb|  C fgffn|fn   cfngb|     f sharp minor
+ab|  e g  a|b e g  ab|  e g  a|b e g  a|c e A  b|c f A  a|b g A  a|c g A  ab       e minor (when the levee breaks)
+ad|e eded|e eded|e eded|eAf bd|e eded|e eded|e eded|eAf bd|e eded|e eded|e eded|efAfed|g gfgf|e eded|AgfgAg|fedbad|  d(flat?) major
+ecab ca |(ecab cb )|f ab e  |(f ab d  )|	a(flat?) major (rondo call & response)
+g  a  d |e  c  a |b abdbab|dbabdbab|	b minor (very fast, cowpunk feel)
+efb f b |f b f c |c c c e |e e e e |	b minor (#1)
+c(cc) D c f| (ab)f   ed|...	b minor (#2)
+f bbf bb|d  d  c |f ccf cc|c  c  d |	b minor (#3)
+e E b  F| FE b   |ebgebgfb| ba f   |	e minor
+  gaa aa| g de D |	g minor
+(d d bddc|)cdg gffd|gfdgfddb|abd d cd|fffg f d|deAggfdg| fdgfddb|abd d dd|f fg f  |	g major
+b(cb)b(bE)E   |c(dc)cFEfab|Eddccb(ba)a|b(cb)bEE		a major
+df(ga)cb|baEbc(Eb)b |baEb(bc)(Eb)b |bcFb(bc)(Eb)bf|a g c b|baE(ab)aEb |(fg)aE(ab)aEb |a(bc)F(bc)bF(bc)c|(cb)(bb)bE(bc)bba|a	a major
+f ga ba |f d c   |C aa ba |	b minor
+g Agec|e abce|f   |d     |      |c dcfa|b   |	a flat major (waltz-ish)
+a  b  |c  e  |g A |f ee  |b caAf|ecbabc|b   |	a flat major
+e eeeeee|fgDfgDef|fe B bce|Af f    |	e minor
+e  |A f|   |cde|   |c f(low)|   |   |	a major (largo)
+  d cd C| C CC C |  dcd C|CCCCf A |  B AB E| E EEFEB|  B AB E| E EEFEB		f sharp minor (very fast)
+    FGGG|GFF c   |g a   F |		c minor
+ab|c c c bc| FEaa ab|b b b ab| FEaaefa|b   E   |  fc baf|abf   ef|aedaeda |	a major
+f bcfEbc|f bcfEbc	f minor
+BCD|B g g |gAd   |  acdg|d ACDG|D a c |d g d |		c major
+C  (ba)gn  (ab)|gn C     |Ds Cbas gf|e		f sharp minor
+B b B  f|d(ds)efnfCB |		b minor (#1)
+  B BA A| g  gf f|  eds    |	b minor (#2)
+f e f eA| g e    |f e f eB| g e    |	f minor
+D  E |ECBE C B|    D E |EDBE D B|    e f |g D B   |f  f eec|f DEF B(high)F| EED  E |	e major
+E     (dEd)|b     b(cncn)| g    a |e       |	e flat minor (largo)
+c B e |c B e |c B e |c B e |d B e |d B e |d B e |cdC B |	f minor (lurching)
+C     Af|A   E D |(CCC)(triplet)D Af|A   f AB|(ef)     (ed)|d   (as) de|(Agd)(triplet)d d(as)|e   D DE|C       |		d major (#1) (largo)
+de|f Af    |      de|(fn) A(fn)    |      de|f Bf    |		d major (#2)
+ad|eAe   AD|EA(high)E     |a d e A |e       |		d major (#3)
+  ffffff| eeebcbb|  dddeec| bbabcbb|	f sharp minor
+abe eb a|abe ebba|Gn Gn Fd c| ccd dd |	a major (#1)
+e e ee c|        |e e (fn)(fn) c|        |cncn cn cndb| a a gngnf|  f f dc(low)|	a major (#2)
+e A  eAe|BAAe A e|d A  efe|BAAe A e|e g  gAf|BAAg A e|d A  ded|BAAd e d|		a major (#3)
+gaE EB a|     faC|  D C DE| BBABCB |		a major (#4)
+bcG dcbc|bcG dcbc|Fn Fn Fne b| ccccdd |		g major (variation on a major #1 above)
+  cddddd|dccG Gdd|  abbbbb|baaG Gcc|  ggggab|a aG Gee|d cbgd(low)e(low)g|a aG Gcc|	g major (#2)
+e e e ef| fd dabd|e e e ef| fd dabd|e e e ef| fd dabd|c b a ga| a gaba |		e minor
+bdd(be) dd(dd)|cdc(dd)   (dd)|cdc(de) dd(de)|fgf(ed)  ca|bdd(be) dd(dd)|cdc(dd)  d(de)|fgg(fg) AA(fg)|AAA(fB) AA |		d major (with dancepop backbeat) (common - be intro?)
+B  e    |dee(dd) ee |BBB(Ce) gf |de(de) e   |g(flat for this bar)g(gg) g   |ff(fb)(cg) (fe)(ed)(de)|e       |	e flat major (#2 from d major above)
+(cd)|ede(de) B (cd)|ede(de) (db)  |	e flat major (#3) (idolm@ster - kazahana?)
+e |fA A  AE|BCBAAggA|A  C  B |E (Dn) B e |fA A  AE|BCBAAggA|A       |		a flat major
+e e e b |d   d ee| bcb  ba|abae ebc|b e e b |f   feee| bcb  ba|abae ebc|b e f B |eddd e e|		e major
+d a g fsg| fsc cccd|d a g fsg| fsc  dfng|g g fs cg| fsc c c |d g fs cg| fsc cccd|	d minor
+C E  C g|B Ag g  |	c minor
+a   b c |e a b bb| cc A   |G   e   |c f(low) b c |f a b bb| cc A   |G   e   |d f(low) b cc| aa b cc| aa e fe| aa e fe| aa af(low)ab|c c c dc| a   f(low)ab|e e e fe| b  bbb |	a major
+b b A Ab|bA A bbc|d d A dB| A G eee|		a major
+b d d d |ds ds ds be|  b b b |c d (bflat) aa| ga g g |a a ac b|		e minor
+bb|cccc  bb|cccc  bb|cccc  bb|cccc  GG|B G B G |B  C  bb|cccc  BB|EED C G |B  C  bb|cccc  bb|cccc  bb|cccc    |		c minor (120bpm) (noisy bassline, hip hop feel) (heard on the radio)
+B B BBBB|B B BBBB|B B BBBB|c  d  an |	b flat minor (156bpm, very fast) (b flats: high pitched guitar harmonics, last measure: tremolo bar "glide guitar")
+B B BBBB|B B F   |B B BBBB|B B E   |B B BBBB|B B D   |B B BBBB|B B C   |	b minor
+E F |E B C f |A f A f |A f   |		b minor (#2)
+eefeggaf|eefeggad(flat)|d(flat)d(flat)ed(flat)CCD(flat)d(flat)|d(flat)d(flat)ed(flat)CCD(flat)f|	e flat major (moderate speed)
+B B BB B| B     B| BB BB A|BCB     |	e flat major (#2)
+g       |   g a g|        |    g ab| E      |      b |b aC   a|       |		e flat major (#3)
+gga|Edddcd|d  ccd|EGccbb|d cgga|Edd cd|d  bbc|d     |b     |	c major
+G G G GG|GF F    |E EEEF F|  fgaDBg|C C C CC|DD D    |E EEEF F|  A A G |F BnC F  |F BnC F  |G BC F  |G BC F  |		c minor
+gaeb bba|gaeb bbc|cdca a a|gagdn(low)    |	e major
+bceBfe|f e e ec|  bceBfe|g f f fc| bbceBfe|	e flat major
+cbdc|    |cbdc|   g|abdc|   g|abdc|		b flat major
+b|abdfA  gd  b|abdfA  gd  b|abdfA gB|Bggeeddb|d  ce  B|Bggeeddb|d  cg(low)   e(low)|(degBD  Cg  e)(low)|d(low)e(low)g(low)b	d  ce  B|Bggeeddb|d  ce   B|Bggeeddb|d  cg(low)    |	g minor
+B  C|g  eD   |    B  C|g  eD   |	b major
+B B eB e|eB eeB e|B B eB e|eB eeB e|	e minor (b and bflat interchangeable) (chugging bassline, sax solo on top)
+fn  e  c |        |e(flat)  d  b(flat) |    ccbb|gggggggg|bbbbbb(ed)e|bggggggg|bbbbbb(ed)e|b b bd a|  a a gb| a(ga) gggg|bbbbbb(ed)e|g d c ba|  g g f(low)g|f(low)d    |	g major
+(cc)dccd|(ga) g     |   (cc)dcca|a g(ff)  e(low)(cc)(low)|  (ff)feda|(cd) a     |    f major (moderato, disco/light funk)
+e ef f|D B C |f fgs gs|ds c |e eeee|f ffff|gs gsas |e    |	b minor
+f(de)f | BBf|feec| d  |		b minor 
+b   c ba| g  f g |b D Db g|age  deg|C b a g |deg E b |a       |C b a g |	g flat major (g major?)
+g d A(very high)   | deggdeg|g d A(very high)   | deggdeg|	g flat major (#2) (champagne supernova?)
+deee  de|eeeeB BC|  D   AB|A   A de|	e flat minor (tool-like)
+efacG FE |cbd cba(flat)  |	a minor (rubato)
+C bag   fe|dn   dndn c|dn g g |    dndn c|dn C C |	c sharp minor (#1)
+fe d  cb| a      |(gab)(cde)(triplets)|  f     |	f sharp minor (#2)
+  A A ff|  c b a |b  c  a |        |  ccc ff|  c b a |b  b  ac|b   a   |	f sharp minor (#3)
+c d e AB| Ae     |c d d AB| Ae     |b c d AB| Ad     |b c d AB| Ad     |	a major
+d   ef|A  fed|db  ab|fgfedd|	d major
+c c   c |c     bc|eecc b a|as     f |c ba b c|  e   c |f ec e d|ds b   ds |c ba b c|  e   c |f ec e d|ds fn  fn fn|ffff f f|f f     |gggg g g|g g   g |eeee e e|e e   e |ffff f f|f f     |     		f sharp minor
+f e e Af|  e     |f e e Ae|      e |ds ds ds dse| e e f f|f e e Ae|        |	b minor
+ab|A fb|  ab|A fb|  ab|A fb| abd|b   |	d major ((bass) (snare)(snare)|(bass)(soft snare roll)  |)
+  b e bf| ea     |  b e bf| eA     |  B A gf| ec     |  B A gf| ec     |	e major (120bpm but can be faster)
+bcebcecg| bcebcec|g bcebce|cg bcebc|ecg bceb|cecg bce|bcecg bc|ebcecg b|cebcecg |	e major (#2)
+c b be c|   a b  |c b be c|   c c c|bcb     |   c c c|F Ec E c|   c c c|bcb     |	f minor
+  G d   |b ga b c|d G d   |b ga b c|  G d   |b ga b c|  G d   |b ga b c|	a minor
+d f fdcA| ggggCgc|d f fdcc| a g(low)g(low)ag(low) |d f fdcA| ggggAg |f f  g g|        |		f major
+e(low)acb| acb| acb| acb| acb|ab b|    |c (ee)(low)f| a  |	a major (130bpm)
+xxa(xx)|xb b| xb(xx)|(xx)(xx)(xx)(xx)	a major (#2) (x: ghost note)
+ xgx| xgx| xfx| xfx| xe(natural?)x| xex| xfx| xfx|	c minor (two quick bass drum hits at beginning of each bar) (x: maracas/shakers)
+cs ga g|fsgBn   |(csg)a gfsg|B cs   |	c minor (fast trumpet)
+bncffs  |bncffs  |bncffs  |bncffs  |	c minor (#2)
+cef|g  f  |e  d  |c c gn |c c gn|ggncgn  |ggncCn  |	c sharp minor (#3)
+C C B (CAse)c |C B (gBCn)E |	c sharp minor (#4) (bass, similar melodic pattern on drums)
+abd deg |gABD    |bde efg |gABD    |	g flat major (girls names - i lose)
+e de A B  |e de A B  |		e minor
+ccd|e   fg|d  edb|c     |	c minor
+gacdeG|A B   |		c minor (#2)
+b c c   |bc e f  |b c   bc|d ed c b|c(low) c b c |c(low)c b  c |c(low) c a c |bc b    |	c (sharp?) minor
+eabcc|  e abcc|  fn abcc|  f cbab| ca abce|  d c ba|  f(low) abc |d d c bb|        |	a major
+ab|d d d ab|d e d ab|cn d d ab|d e d ab|	d major
+  c ef g| B      |c g fe d| ed bn   |	c minor
+cdfdfgfg|ACACE   |ECACAfAf|efeccs   |	d minor
+eeeeee|f f   |eeeeee|f f de|fgAnBCD|CBAngfe|d an   |eeeeee|f f   |eeeeee|f g Bd|d edcb|anbcdcb|an en(low)   |	c minor (reverbed ghost note ostinato: |C  g  |)
+fgbcEF|D   fg|bcEFD |  fgbc|EFD ED|cbanbcE|cbg(flat)fec|f     |		c minor (#2) (on second repetition, second last measure: DBng(flat)febn)
+      ef| f ff   |      ef| f ff    |      ef| e fefe |f e e   |        |	f sharp minor (disco, second riff: every other note goes to a different horn/audio channel)
+abd |b(low)   ab(flat)  |	b minor (fever ray - keep the streets empty for me)
+  c ce f|        |    ff e|  ececcb|    ee c| ba b cb|    ee c| ba b cb|	a flat major
+d efed|A BA  |d efe |b     |	d major
+F fF E  |B CBB   |F fF E  |B CBB C |fDCBBCE |fDCBBCE |fDCBBCE |fDCBBCE |	f sharp minor
+d   |c   |G  e|d  b|a(aa)(aa)(aa)|a(bd) b|a(aa)(aa)(aa)|a(bd) b|	g major
+C  C|  A |    |bdAf|e  e| ab |    |    |an  b|  e |   |ecde|cdef|gAAn |    |		b flat minor
+C   E    |D B E B |A B E B |g B D B |		c sharp minor
+A (AA)g (gg)f |(ff)e (ee)cbce|fgfcgfcg|fcgfcC  |dgedgedg|degedC  |	f sharp minor
+gaab a  |gaae    |gaab a  |gaeb a  |		a major (are you ready to be heartbroken)
+a  a  A |G F E D |E   E Fa|    aabc|c  a    | c bc E |b   a   |g       |	a major (#2)
+e ca b a|e abc   |e aa b a|e abc   |dcba b a|e abb   |dcba b a|d abb   |	a major (acoustic variation?)
+c c ce e|   c e c|f ecce c|   b b a|bcbb  f(low) |    c c |A g ee c|   c c c|bcb     |		a major (200 bpm)
+e e dd c| ccce b |a babe d| ddcded |	c minor
+c cA fA |g eA fA |d dA fA |f eA gA |c cA fA |g eA fA |d dA fA |A  g  f |	f sharp minor
+b b |  eb|baa |  da|a a |  ba|a(flat)   |b   |		e minor
+gs   gs gsA| gse e f |g   g gA| ge e e |f   f fgs| fe d e |g g geeb|as b cs ds |	e minor
+bcefcbab|efcbabf(low)a|d c b a |abcbEFCB|	f sharp minor (alternative execution: f(low)bcaefcb)
+C D D CC| D D CC |C D D C |DE CD B |B C C Be|  eee   |B C C Be|eeed e  |f g g ef| ggg f  |A B B Ae| B B Ae |f g g ee| eed e  |f g g eD|        |f g g ef| ggg e B|  e eddd| e      |f g g eA| B B A  |BAeE    |        |	c sharp minor
+f f f f |g geas as(fe)|  a g fc|  a g fc|	c sharp minor (#2)
+b  d  b |a  c    |b b abc |d ba    |	g major
+g B f B |e  d edb|c e b e |abcbdede|	e flat major
+e cb    |    deee|f cb    |   g g g|g cb    |   g AAA|A cb AAA|B gf eee|	e flat major (#2)
+C g e DE|D g egAB|B g egDE|D g egAB|A fgA D |DEDBBAgA|A fgA D |DCBACBAB|	g major (fast, swirling strings)
+(AB)(AB)|DBAg|(ge) (AB)(AB)|DBAg|(ge)(AB)(AB)|DBAB|DBAB|DBDE|D   |	g major (#2)
+D D|DBBAAggg|g fd D D|DBBAAggg|     g g|eg g  gf|dg g egA|B C B C |D BA    |	g major
+c ecg f | cecAAgf|	c sharp minor (policy of truth)
+g g g ff|  c c   |g g g AA|  g BCBg|	c sharp minor (#2)
+  f B CC|  f B CC|  f B f |gAgebce |	c sharp minor (#3)
+d cdgdcg|dcgdcg  |ABBBBAAA|ddd     |	g major (go-betweens - mountains near dellrey)
+cc(AA)A|gfec|cc(BB)B|gfec|	c minor
+e e   e |Ag f e e|c b     |        |e e   e |Ag f e e|c b     |      b |c e   e |fe f f e|g   f   |e  d  e |e ce  f |Ag f e e|        |		e flat major
+a(acs)eg A|     cs|Agd(csd)gd|      |	a minor
+A Ags  |feffs fsf |A Ags  |feffs fsf |Bn BnB  |gfsggs gsg |Bn BnB  |gfsggs gsg |Bn(high)GsFGsFD|FDBnfcegB|A|	d minor
+a c |b   d  e|    a c |b   d  e|	b minor
+BD F   A|BDBF  CA|gDBF   f|gDBE  C |	b minor
+fffff B |A   efff|f edd f |e       |	b minor (#2)
+f fC C C|CBBff   |f fD D D|DCCBBCE |	f sharp minor
+x x X  x|xxxX    |xxx X  x|xxxX(xxxX)|c c g  f|aaaabcb |c c g  f|aaaabcb |	c minor, x: bass drum, X: gated snare
+A D D A |D  D A  |d C C A |BnCBnA gsA |d gsAgsfd |cddf d  |d gsAgsfda|dcac d  |		d minor
+bd |e     |  geasb|ds    f|B     |d  geB|  c   |d  gcB|  e   |		e minor (hex era earth)
+x x x |x x x |febebe|febeb |febebe|dddcc |	b minor
+d d    d edb|e e    e feb|	b minor (#2)
+f f f f fefB|e e e e edeA|e e e e edeA|e e e e edeA|	b minor (#3)
+c d dccc|  d dccc|  d dccc|  d cddf|g g fd d|  d dccc|  d dccc|		b minor (#4)
+c C B C |c C B BC|c C B C |c BBBC c|	c minor (from somewhere?)
+feB Beed| eB Bedb|ceB Beed|deBCBecf|	e major
+bbb bB fn| f bfn f |ddddde c| cd cncnd |	b minor
+b B BD D|E EFn    |f B BD D|B(high) B(high)Fn    |	b minor (#2)
+g gg  A |B BB  C |D DD  F |Fs       |g gg  A |B BB  C |D DD  Fs |G       |g g x x |GFDF  D |g g x x |GFDF  D |		g minor (fast thrash punk, x: ghost notes)
+ eAB|C ef|    |   A|gAgA|g ea|    |		a major
+b |e(low)   F  F| Gn(bend)F E b |	e minor
+b  d|      b |cs       |        |    cs  e|      ds |ds       |		e minor (#2) (sludgy drone guitar)
+ccc(cc)cccc|ccc(cc)cccc|ccc(cc)ccc(cc)|fff(ffs)feeb|		c minor
+c       |d   e dd|  e   cb|bcBf eec|fef  cec|Agffeg g|        |	c minor (#2)
+g AgA  g| A g c  |B CBc  B| C B c  |	c minor (#3)
+BC BC F |  ECBAf |A  B    |	f minor (first bar from somewhere?)
+A AF EA |A  e fAB|A AF EA |Affe fA |f fE A A|c f A B |C fE A g|e f A B |B BE    |B BF E  |BBBCCCCD|D       |	a major
+B   D BF|  D     |  A B AE|        |g   A gC|  DC A  |f A C fA|        |	b minor (low - lullaby)
+ccd d  c|d d dcde|bbd d  c|d bcdcdc|	e minor (alternatively, a major, move melody up one whole step)
+def|g  BAg|g  BAB|e   (fg)(fd)|e bedb|c    e|ed d b|a     |  (de)gAg|B  A  |g df g|gCDGDC| CDGDC|B  A D|g df g|gCDGDC| CDGDC|	g major
+fAC CA A|fAC CA A|gAD DA A|gAD DA A|		d major
+  e g   |f  d  B |  c g   |f  c  B |e ABBAAA| e  e f |g fd A  |d cg fd |	e minor (80 bpm)
+A B G  B|A B F  B|A B E ee|efgggAAA|		e minor (#2) (100 bpm)
+d e g ed| de g A |b c g dc| cd g A |  DDD BD| B      |  B A gg|        |  B B CC| B A g A|  A A BA|	g major (120bpm double time)
+d e g A |g e d c |f(low)   g AC| Ag A gC| Ag g AC| Ag A gE| Ag A g |d e A eg| ec c d |f(low)   A g |A gA  g |C Bf    |		f sharp minor
+b c f  f|  c b   |b c f  f|  c b   |c d f  e|  c b   |a b e  e|  c b   |	f minor
+ BBBBAAA|Aggg    | BBBBAAA|Aggg ddd|gn d     |dcad ddd|gn d     |dcad    |	g sharp minor (or up half step to a minor)
+fnfffnffff|fnfffnffff|f ff  f |A AA  A |B BB E C| CB A B |	f sharp minor
+DedEdDdF| GFEDEDd|DedEdDdF| GFEDEDA|CcdDcCcF| GFEEDDA|CcdDcCcF| GFEDEDA|	d major
+g ee  g |g C C   |f de  f |f B B A |g ce  fe|g fe ce |d e f g |A Bf ec |	c sharp minor
+g B |f ee    |    g B |f ef g f|  c g B |f cd  e |  e g A |g de B f|		e flat major
+ABAg|g ed   d|A B D ff|e       |	g major
+AAAAAA|AAAAAA|AAAAAA|CD(flat)DDDC|	f major (125bpm)("shimmering" drone guitar)
+fgg g fe|fgfefgfe|gAA A fe|fgfegBfe|ABB B Ag|f c d ef|C B eA g|f       |	e major
+(xx)X(xx)Xx|X B BA e|     cdg| dc  d b|xxXxx(xx)X(xx)|		a minor (fleetwood mac - dreams)
+bBEB|D B |eBEB|D B |cBEB|D B |cBEB|D B |	e major
+b|effBBffe|d cd e b|effBBffe|dc g(low)bdb |	e flat major
+bbBg fee|ccde eg |aefA efg| Agf    |	e flat major (swung)
+BB B      bd|f           |BB B    g f |d           |c  d  e g c |f  g  f d b | 		e flat minor
+f A |A BB   f|C BAAffe|e   b d |	b flat minor
+B |F     F |B C D F |F GG  D |A(high) G F E |E FF  B |C  D  C |C DAB   |	b flat minor (#2) (fall out boy - dance dance?)
+f A A B |f e f b |f edd ef| e      |	b flat minor (#3)
+b febA f|feef    |b febA g|feee    |	b minor
+g   G GG|  D D g |d   G GG|  D D g |e   G FD| E gg B |C D C B |A gf g  |		g major
+ F B|C       |   f gAC|D      E| Af  F B|C       |	f sharp minor
+BDBD CAC| AfABc b|	b minor (liquid funk?) (try other keys as well, f minor)
+b fe  fe|  fA d d|	b minor (#2)
+xXxX|xXx(Xx)| (xX)xX|xXx(Xx)|b(ba)  |    |b(ba)  |    |c(cb)  |    |c(cb)  |    |b(ba)cd|cbba| b  |    |c(cb)ce|cbb(ab)|    |    |	d major (x: bass drum, X: snare)
+d(xx)X(xx)xXX(xx)|x(xx)X(xx)xXX(xx)|e(xx)X(xx)xXX(xx)|x(xx)g f   |g d(xx)xXXxx|		g minor (x: bass drum, X: snare)
+gg  ( BA)(triplet)|gg  ( BA)(triplet)|		g minor (#2) (thick, distorted synth bass)
+BA (BB)B(BB)BB|(BB)A (BB)B(BB)BB|		g minor (#3) (clattering metallic drone)
+f ef|  ef|  ef|  ef|d ef|  ef|  ef|(bc)(ba)b |F ef|  C |A(high) ef|  F |C(high) ef|  ef|  ef|(bc)(ba)b |G ef|  E |D ef|  D |C ef|  ef|  ef|(bc)(ba)b |	f sharp minor
+ggDg|gD g|ggDg|gAAB|BBFB|BF B|BBFB|BAgsg|	g minor (drum n bass, bluesy vocal melody on top)
+d(flat) f |    |d(flat) A(flat) |    |d  f|  d |    |    |	g minor (#2)
+B e B |e ee e|f ff(fg)f|d     |B eB |efgA  |ffff(fg)f|d     |		e minor
+A dB  D |A BB  D |A eB  D |A BB DD(DD)|DCBg eA |B  eDDD(DD)|DCBg cdA|D       |		g major (chorus pedal)
+BD A B g| ffgg gd|(eg)g e(dg)g d|eggAB A |	g major
+d B c dB| e f    |d B c dB| e f    |c B f eg| e f    |c B f eB| e f    |	f sharp minor
+bcf A gg|e fee   |dedddedd|dedddedd|		f sharp minor (magazine - parade?)
+b fe d A|  gf e e| dd   ac|  dc d b|		b minor
+b aa  db| aa a   |b aa  dc| aa a   |		b minor (#2)
+D   B D |F  D    |gsgs B    |gsgs b    |	b minor
+G FF C|C B BA|g ee c|f   C |G EE C|C B BA|g ee c|e     |	f minor
+CD|F EE C|(EC)B  AB|CEBBCg|(gf)  (fg)(AE)(BA)|C BBA(AB)|g es(ces)(gB) |(Ag)     |	f sharp minor
+A EE CC |DeCeBeA |e EE CC |DeCeBeAe|g gg  A |BeCeDeDse|E gg  A |BeCeDeE |	a major
+C  A  f  e  |     (cd)(eA)CD  |		a major (vibraphones, second bar played as a broken arpeggio)
+X X x X xX x|XXxxx X xX x|X X x X XXx |XXxxX xx  |	a major (#2) (X: ride cymbal, x: snare) (6/8,6/8,6/8,5/8)
+cfecfecfecf |dfedfedfecf |cfecfecfecfc|d d d ccd dc|	f sharp minor
+A A ABCB|        |F DC D A|        |A A ABCB|  eefAAf|E Ag A A|        |		a major (mew - white lips kissed)
+ABBBB E |gAAAA B |gfdg d f| gfdfdd |		g major
+B B x |B B x |B  ABA|Cn   x |		b minor (dark strings, frequent key changes, x: shaker)
+f f C   |B  f  B | g    gg|BCDD CBC|  A C   |B  g  B | g    fe|degg ccc|  a A   |g  c  e | d d  g(low)g(low)|degg ccc|a c A   |g  c  e | d d  dd|degg a a|		c major
+f(low)f(low)f Ag e|   e bbc|  f(low) Ag e| e e bbc|	f sharp minor
+B C C BB|BC C   g|B C C BB|BC C   f|B C C BB|BCFCD CB|BggB C D| EFF    |	b major 
+F G G F |F D D E |D     CC|        |B A g f |g f b c |b       |	b major (#2)
+FF|F EE EDC|C D C CC|C BB BAg|g A g f |c fAC f |fAC g AB|C g ABCB|ABAgf FF|	f major
+(XX)(xx)(XX)(xx)(Xx)(XX)x|xccccbb|	g major (X: high tom, x: low tom)
+f AAA f |A   B AB| B AB C |A       |	f minor
+  F  C  |A  f  C |D x X x |X(bass)X(bass)xXX x |	f minor
+ B(BA)B|C BB|    |   C|FE(BA)B|C BB|    |		f minor (#2)
+  D  (B(flat)A)|(B(flat)A) g ge|B e(ed) e|      |	e minor
+e B(AB)DB|FGsFGsE |B(AB)DB(AB(flat))(Ag)|gffdsb |	e minor (130bpm)
+BDBeDB|B(flat)     |egebge|e(flat)     |		e minor (#2)
+c c B |c c B |c c B |c c B(bd)|e e ggs|e e ggs|e e ggs|e e ggs|		e minor (#3)
+C D DC C|GC D C  |C D DC C|GC D CDC|eeEeeEee|DD D DDD|eeEeeEee|DD D DDD|	e minor (drop last 4 bars by an octave)
+bcebceeb|bed(fg)f fd|bddbdedb|ceb(ef)e db|		e major
+bcdcbcdc|bcdb f  |	b minor (hard trance)
+d|g(AB)  | gBD|B(Ag)  |    |B(DE)  | BDE|B(Ag)  |    |e(fg)  | ABD|D(gg)  |   g|AA B|E D |A   |    |		g major (skate punk)
+D   |  C(CC)| g  |    |BC  |  C(DC)| g  |   (BB)|(BB)BB(BB)|B(CD) (BB)|(BB)(BB)B(BB)|D(CC) (BB)|	b major (toro y moi)
+(Age)(triplet)|(Age)(triplet)|(AB)g  |    |(gnfd)(triplet)|(gnfd)(triplet)|(gnA)f  |    |	a major
+gAge f e|     bba|feea b a|        |		a major
+ccc(cf)|fff |ccc(cf)|fff |aaa(ab)|bbb(bc)|ccc(cb)|bbbb|		f sharp minor
+x Xxx(snare) Xx|  x x(snare) Xx|f f(low)f(low)fffA|  A x(snare) Xx|gggggfff|  f x(snare) Xx|		f minor (x: bass drum, X: hi-hat)
+e c g   |  f efgA|f d b e |  bd d b|dec g   |  f efgA|f d b e |		g major (90 bpm)
+e fgd  A| AAAAB  |g gfd  A| AAAAB  |	g major
+ffffffffAAAA|eeeeeeeeeeee|dd fs g dfs g |dd fs g dfs g |	d major
+g A |B   D   |C   B   |AC C A A|En       |		b flat major
+AdeA edA|AceA ecA|AbdA feE| EBAAggA|		a major
+ggE E ED|D DDDEDC|eeB B BB|BCDBeeee|		e minor
+BDEG|E     BD|C   B(Ag)gA|B       |		e minor
+e Be| fe | dBe| fe |e Be| feb|(fg)f(gf)e|e(cb)(bc)e|		e major (hayden - you are all i have)
+fg f e e| ecbbce |gA g f e|   c  b |		e flat major
+(BC)B  |  g(AA)|    |AAA(AB)|CBBE|Bgg(AA)|	a major
+E BB| ABAB C |C   E BB| ABAB C |C   E EB| ABAB C |B   g gg| gggA B |f       |		a major (#2)
+B  g  d  fs g |B  g  d  D C |B gg  fs g D C|Bggg  fs g D  |	g minor (13/8, 85 * 3 beats per min)
+DCCCBB|A B FF|FCCCBB|A B DD|DCCCBB|A B C |C dfsAC|fsgAC D|	g minor (#2)
+  A f dc|cdca    |  A f dc|cdcacdca|b bdd de|eeeff ca|b bdd de|eeeff ed|d A f dc|cdca    |		d major
+(cd)eee|eeeA|d dc|dcba|(cd)eee|eeeA|d dc|dee |a  c|e  e|ecba|ag(low)g(low)a|a  d|A  c|cbba|ag(low)g(low)a|	a major
+f ff f|g gg g|A g c |f ff f|g gg g|A g c |d ff f|g gg g|A g c |d ff f|g gg g|A g c |			f sharp major (90bpm, "beat": one measure)
+efAfA F |E fA B A|BfE  AfD| fAC  B |		a major
+AACCDDCC|GGCCDDCC|ffCCDDCC|GGCCDDCC|		a minor
+EEAAB BB| BA     |FFAAB CB|        |DEDCC B |A       |DEDCC G |        |		a minor (#2)
+ffCC|C(BA) (Bf)|ddCE|C(BA) (Bf)|ffCC|(CB)( A) B|ffgg|A(ge) c|bfBB|(BA) BE| C g|f   |fABB|(BA) BE|E   |    |		f sharp minor
+D D  D|D B  B|B A  f(low)|abd das|B B  B|B A  e|e d  f(low)|abd das|		a minor
+c fg e d| edd ede|b de d b|b cbb   |		c minor
+f f fg A| B BBBBB|e e ebbg| ffeefe |		e major
+DBdE F D|  ce fec|FCfGA(high)GGC|D(dA)DE FEC|CBBC F C|F E DE F|f(ac)fB Afd|c       |		f major
+c f|C     BA|g Ag e e| fc     |      bc|c(cd)    cc|c(cd)    cb|(cd)  cc   |		f sharp minor
+e cb|e cb| f f|fgee|e cb|e cb| f f|fgee|	e flat major
+effAABBC|CEEFFGGA(high)|A(high)GGFFEEC|CBBAAggf|		a major
+c BA  g |f gf bde|b BA  g |D DB  A |		e minor (journey - separate ways?)
+c B A B |AB A  c |b B A B |AB A  b |		e minor (#2) (fleetwood mac - i know i'm not wrong?)
+(fB)|C(CB)C|(BC)(CB)C|(BC)(CB)C|(BC)(CB)(Cg)|(CD)(DC)D|(CD)(DC)D|(CD)(DC)D|(CD)(DC)D|		b flat minor (fast piano vamp, (90-100) * 3 beats per min) (replace (BC) with minor 9th chord, (fBCx), similar for (CD))
+f Bfde(de)(db)|cAge(Ag)ede|		e flat major
+f EE  BB|  EE  BA|  fB f B| ABABCBA|Af      |		f sharp minor (enough for just a little light)
+bdAbbAbA|bafaafaf|g(low)b(de)
+gfgfgfgf|gfgf    |gfgfgfgf|gfgf    |gsfsgsfsgsfsgsfs|gsfsgsfs    |gsfsgsfsgsfsgsfs|gsfsgsfs    |	c minor (swung, 170 * 4 bpm)
+bcfcecfcAgfe|cdfcecfcAgfe|	f minor
+C B A ggdedc|C B A ggdedc|E DCC BBC Ag|E DCC CDA g |		c major (city and colour - save your scissors)
+g gg gg |A f     |C CC CC |g e     |		a major
+abda|b (CC) |abda|g(low) (CC)|abda|b (DD) |abda|g(low) (CC)|	b minor
+cb|a  a|c e |A   | Age|fs  fs|e d |c   |  ab|c  c|e c |g(low)   |  g(low)g(low)|gs(low)   | gs(low)fs(low)gs(low)|a   |		a minor
+Cg  |df  |ce  |bd  |		f minor
+GG(GF)FF (FE)(EF)| FFEE Cg|BC gBC g|BCg f e |		c sharp minor
+ fngDgfng | egDgeg | dgDgdfn |C B g dfn|		g major
+AAAAAAAA|BD    BA|AAAAAAAA|BD    B |A Bd  BA|AABd  db|gfedbcdc|d       |	d major
+f   d   |g  d    |f d dd c| dcdc   |	
+fCBC|A(high)  C|BCf |f  c|(cc)df |f dc|cdfe|e(bcn)ba|		f sharp minor
+CDCDC CD|CDCDC AB| B Bg ab| b bbcba|CDCDC CD|CDCDC AB| B Bg ab| b bbceg|ggggg A |e e e eg|ggggg A |C AC Aeg|ggggg A |e e e eg|ggggg A |BAgD Bg |	a major (g = g natural) (100 * 2 beats per measure)
+A CE|E B(BB)|  BA|DBB(B(gf))|
+G G   D |F FF D D|DEE   ED|D DD g g|ABAg AAg|ABDggdeg|ABAg AAg|ABABA   |	g major
+cd|fC CCBB |addadeee|fC CCBBB|d   e   |fC CCBB |addadeee|A e(low)e(low)B e(low)e(low)|BCBA fAB|		f sharp minor
+e e e e |e e e e |e e e e |G GG A(high) G| E E EF |e e e e |e e e e |G GG A(high) B(high)| A(high) G EF |		e major
+e eC  A |e eC  A |e eC  A |e eC  A |a aCn  A |xx x  a |a aCn  A |xx x  a |		a major
+F     F |  F E D |C  A  d |        |F  A(high)  F |  F E D |C  A  d |        |gs     d |        |gs  e  d |        |		d major
+C ABD BA|C AB Ad |C ABD BA|C AB Ad |		d major
+ef A fC C f |ef A fB B f |		d major
+ (ab)dbdfdf|AfACAfdc|b(ab)dbdfdf|AfACAfea|	b minor
+Gs A d A|G A d A|F A d A|Ds A d A|D A d A|C A d A|C A d A|C A d A|		d minor
+c  d  |c(low)deg eB |c  e  |c(low)deB eg |	e minor (first and third bars: play this chord (eBCD)) (labradford - pico)
+eBgeBgge|dA dA  b|cgfcgffc|dA dA   |		e minor
+efA C  e|efACDCBA|efA C  e|efACDCBA|		a major
+b|f (bf)|(fA) b|(cd)d(cd)|(cd)  |		b minor (play (bf),(fA),and (cd) as double stop)
+a d fedA|        |a d fedA|        |f f f ef| A  x x |f f f fnf| b  x xcn|c c c bc| e  x c |ccnb x   |  bcecba|aa(flat)a     |    a aa| asb     |  bcecba|aa(flat)a     |    c cc| cnb     |		d major (x: snare rim tap)
+x x x X |oXoxX oX|oxxxx X |oXoxX oX|xoxoxoX |oXoxX oX|o o o X |oXoxX oX|		(x: bass drum, X: snare, o: hi-hat)
+  dn e dn |A ge e  |b c e c |A ge e  |e(low) e f e |g e f e|A e g e |B e f e |	e major
+d dd e g| g g g d|e ee A B|      g |D DD B B| g g g g|fn fnfn A B| g fn e d|		g major
+g|fn       |  cdfng A|B       |g     g |fn       |  cdfng A|B       |		g major (#2)
+B BB A B| A B BC |gA fg ef| de c bc|B BB An B| An B BC |gnA fngn e(flat)fn| dnen b(flat) cndn|	f sharp major (#3)
+e      A| g      |e   f  A| g e feA|       g| f  e f |g  Ag  A|B  ff ee|		e major
+g       |      g |f e e f |f eeeefg|        |  c e ee|f c    g| f      |		e major (#2)
+f(low)bDFDEDE|f(low)bDFDEDE|bdFA(high)DGsDGs|bdFA(high)DGsDGs|		b minor
+bbBbccBb|cdfC B c|bbBbccBb|cdfC B b|bbbbbbbb|bbbB A g| gAff bb|bbbB A g| gAffbbb|bbb c d |Aggddbbf|feeddcc |		b minor
+abbd bbf| eeA ff(ffn)| eeedd(ab)|xxXxxxXx|		b minor (#2) (x: bass drum, X: snare)
+D E F D |B DA  dd|ffffffff|g fg f  |		d major
+XxXxXxXx| c c(low)bc e| cc(low)d ddcs|XxXxXxXx|XxXxXxXx| c c(low)bc e| cc(low)d ddcs|   csgA C| gdAgecsc|		c minor  (x: bass drum, X: snare)
+  BCCC E|  BBBA Cs|       Bn|        |  C CB B| A A B gn|        |an       |a       |		c minor (#2)
+GG    FG|(DE)Dg(low)g(low)ag(low)(bc)(ba)|g(low)GGG(GF)FFG|(DE)Dg(low)g(low)ag(low)(bc)(ba)|		g major (bto - you ain't seen nothin' yet)
+(fg)A|  ge  db|(bc)ccc(low)  (fg)A|  ge  db|(bc)ccc(low)    |		c sharp minor
+xxxXo|xxxXo|xxxXo|f g  | g As |  e  |     |		c sharp minor (x: ride cymbal, X: click, o: bass drum) (japan - ghosts)
+e Ee (AB)(EF)D|e Ee (AB)(EF)D|c Dc (AB)(EF)D|c Dc (AB)(EF)D|		e minor
+BBB|e BA|ABGF|egCB|bBBB|egBA|ABGF|dsAf(DsE)|Ds(AB)BB|c BA|Ag f| g f| ddd|c BA|Aggf| g D| f d|		e minor
+eee(bc)(ee)(ff)(ee)(bc)|fff(bc)(ee)(BB)(ff)(bc)|	e flat major (very fast pop, 150 bpm (2 notes per beat)) (unrest - make out club)
+FGFG  CD|CD D Be |  D  E G| E D Be |		e flat major
+d(df)A(de)|AB(ef)B|C(ef)AB|(be)ABe|		d major
+gs gs |gs Af|    | (ed)(ed)(ed)|(ed) d |    |		d major (#2)
+BdCdDdBd|CdDdBdCd|Ceeegggg|GGGE D g|		g major
+C CB|B BA|A Ae|effe|    |  (ab)d| bd | def|		d major
+d d dd d| dd(xx)dd  |e e ee e| ee(xx)ee  |		d major (#2)
+d ab|d ab|dbaA| abc|d (ab)(cd)|e (abc)(def)|g (bcd)(efg)|A		d major (#3)
+C   |  AB| Ad |    |C C |  AB| Ad |    |C C |  df| eb |    |cn cn |  df| dB |    |cn cn | d f| ee |d c |		d major (#4)
+D D DD B| CCC C g|A B e gA| B e f e|		e flat major
+f fAg f |xffAgAgf|x xAg f |xffAgAgf|d dgA d | dfAgAgd|c cenA c |bncenBgAgc|		f minor (bass, x: ghost note)
+aeA |aeA |aeA |aeA |acfn |acfn |acfn |acfn |f(low) c | c c|bcf |f   |f(low) c | c c|bcf |f   |		f minor (swung)
+e(low) b B E |e(low) B eeeB|C D B A |cccf d d|		e minor
+ggBg|G D |ggBg|G D |gsgsBgs|G D |gsgsBgs|G D |		g minor (drums: xXoX|xXoX|..., x: bass drum, X: hi-hat, o: snare)
+f A CAfE| CE CE C|f As CAsfE| CE CE C|f B CAfE|		c major (percussion, played on toms?)
+gGGGGDDD|DBBBBAAA|AGGGGDDD|DBBBBAAA|		g major (coldplay - sky full of stars)
+eff g   |efffg D |dee g   |efffg D |		g major
+dgd|fgg gfdc| de  g(low)db|(de) e edba|        |		g major (#2)
+  a cd d|  a de f|  a de A| f d e b|  a c dd|		d major
+eeeE D E|eeeBeBB |eeeE D E|eeeBeBB |cccE D E|cccCcCC |cccE D E|cccCcBB |		e minor (played on bass) (drums: ooXo|xxXo|..., o: tom, X: hi-hat, x: snare) (delayed/echoed guitar per four measures: e g g f |(g f g f )...)
+a a a   |c e f g |f Xcx X |xx(XXX)xx(XXX)|a a a   |c e f g |A X g X |f X cdsfn |A A A AA|  fn fn A |C X B X |fn X g X |		a major (x: floor tom, X: snare)
+A fg  A |A fg  A |A fg  A |A fg  A |A f A C |A f A C |E   B   |g   fn   |		a major (#2)
+g C E  e|fCDCDCDC|g C E  e|fCDCDCDd|ggggg f | CDCDCDC|ggggg g |  DCDCDC|		c major
+c c CC (cd)| cdcdedc|g(low) c CC c|dcdcdedc|c f CC (gA)| gff ecd|c d CC (gA)| gff ecd|		c major
+(AB)|CCFC|CBB(BA)|gAge|   (AB)|CCF(CC)| BB(BA)|gAgf|    |		f minor (avalanches - since i left you) (wayne wonder - no letting go)
+CCC|C BAAggA| g   CCE|BCBAAB C|   C C C|C BAAggA| e   CCE|BCBAABAC|   C A f|B BAB AB| f   CCC|F EBBE B| Af  fff|C CDE CD| B   CBf|fnfnfnfnfnfnfnfn|fn    CCC|		f sharp minor
+BBFExxFE|xxFA(high) D D|ggFExxFE|xxFA(high) D D|		b minor (x: ghost note)
+efBfefBf|efBfefBf|egCgegCg|egCgegCg|		e flat major (diamond crevasse)
+g gf  ee|ceBeceBe|ceBeceBe|bcBebcBe|g gf  e |DeCgceCg|ceCgceCg|geCgceCe|g gf  ee|aefBaefB|aefBaefB|befBbefB|d  d  ee|		e flat major (#2) (ashita yuugure made) (blue nile - let's go out tonight)
+(BDf)(BCf)|(gAd)(ef)d  |(BDf)(ACf)|(gAd)(ef)d  |		d major (perfume - spending all my time)
+f gb b f|        |f gb f d|        |f gb c f|        |f gc f d|        |		e minor (drums: XoxoXoxo|..., X: hi-hat, o: bass drum, x: snare) (david sylvian - boy with the gun?)
+fBCA|dE (BC) A|fBCA|dE (BC) A|		f sharp minor
+gAB |gE g|E gE| gDC|fADC|fE f|E fE| fBA|		f sharp minor (#2)
+xxoxxoxo|xxoxxoxo|xxoxxoxo|xxoB CBC|eeeeAAAA|gee(eB) CBC|ffffAAAA|gdd(dB) CBC|A  B CBC|e  B CBC|f  B CBC|d  B CBC|(ceAB)(chord)       |		a flat major (synth a la love will tear us apart) (x: bass drum, o: snare)
+f c e b |c a b e(low) |f c e b |c a b e(low) |A e f c |e b c e(low) |A e f c |e b c a |C A B f |A e f c |e       |		a flat major (#2)
+f AAfgAB|E AA fA |f AAfgAB|E AA fA |f ggfgA |E AA fAA|f ggfgA |E AA fAA|		a major (percussion: x XXo XX|..., x: bass drum, o: snare, X: shakers)
+  e e bg| fe e cb|  bce cg| fe e cb|  cee dg| fe e cb|  bce cg| fe e cb|		e major (ride - vapour trail)
+ebe(low)befBf|ee(low)g(low)bcde |g(low)bee(low)bgBg|ee(low)g(low)abce |		e flat major
+ACECDCCC|ACECDCCC|gCE DCCG| GDsDCDCg|		c major (the pillows - last dinosaur)
+g(low)xXxxXxx|xxXx(AAA)|A  gcs c |    bbcb|cbg(low)    |    bcden|fs     dc|      bd|        |     g(low)(cbg(low))|g(low)       |	g minor (x: bass drum, X: tom) (xxXxxXxx|....)
+ABBCCffe|eff d dc|ABCCffe|effbb cd|     a|d   (fABCDE)(chord)   |		f sharp minor
+f   f d |gs       |A  E  C |        |		c major (chords: d7, d7b5, d9)
+C (FG) |E(CE) E|C (FG) |E(CE) A|ABDA|E(CE) E|gADF|E(CE) E|		c sharp minor
+G GG F  |E EE D  |C     B |        |A BC D  |E FG A(high)  |A BC D  |E FG A(high)  |C BA C  |C BA C  |C   D B |        |		a major
+ABDEDBAB|DEDBDEDA|DEDBDBAB|Afefedba|d d(low) d(low) d |d(low)e ee d |d d(low) abd |d(low)e ee d |		d major (fast fiddle) (e street shuffle? song remains the same?)
+(ef)|gAgf| e (ef)|gAgf| e (ef)|dedc| b (bc)|dedc| b (bc)|e e(ce)|(ee)c (bc)|e e(ce)|(ee)c (ef)|gAgf| e (ef)|gAgC|B(fg)fe|		e flat major (drums: xxX(xx)|(xX)xX(xX)|..., x: bass drum, X: snare)
+f(low)  a|e  a|f(low)  a|e  a|EAC |(DCA)(triplet)gs |EACf|(DCA)(triplet)gs |EAC |(DCA)gs |(ef)(gA)   |Ds   |		f major
+g g g B |BB BB BB|D E g B | B BA AA|		g minor (breakbeat?)
+ceA(cc)|cA c|bXo(Xx)|xXo(Xx)|		a minor (hip-hop)(x: bass drum, X: hi-hat, o: snare)
+ (ad)fCAfgc|df df   | (cd)fCA(fg)fc|(cd)f df g |abfCfeca|(ab)f (cd)feca|(ab)dfCfeca|(ab)f (cd)fg(de)c|		d minor
+An AnB| E  An AnB| E  An BC| E  An  AnB|C E An AnB|CECBAn AnB|CECBAn AnB|CECBAn AnB|CECBAnbec|		c minor (drums: XxoxXxox|..., X: hi-hat, x: bass drum, o: snare)
+xxGBxG G|xxGBxG G|xxFBxF F|xxFBxF F|eeDBxD D|xxDBxD D|xxDBxD D|xxDBxD D|		e minor (x: ghost note, drums: ooX XX  |ooX XX  |..., o: bass drum, X: cymbal, sax line: e gA|B Agf   |, sax line: B A |    fgD |)
+bce A eA|A eAABe |cbds A xA|A xAABe |bce AecA|AecAABe |cbe gs dbA|gsdbgsgsAA |cbe gs dbgs|gsdbgsgsAgs|		a minor (radiohead-ish? background ride cymbals, played on the bell) (80 bpm, 4 beats per measure)
+  fA B C|D C BAAA|  fg A B|C B AggA|  fA B C|D C B FE|     BBC|D C BAAA|		f minor (brisk, slight swing)
+f   f ce|efc f cf|e e e ef|B e e ce|		f minor
+C  BBB|B  ABA|C  BBB|B  AAA|f     |f     |e     |e  ded|f a   |		d major (Dmaj7 - (cdeAB))
+A CCC(DD)(DD)(DA)|gnAAB A  |A CCC(DD)(DD)(DA)|gnAAB A   |	a major
+e B BBBB| CC     |  DDDDBD| BA AggD| DB(Ag)gffg| ed g ge|g gegABB| (CB)A AggB|		g major
+effg|gAAB|Bgf(dc)|    |effg|gAAB|BgD(Dg)|A   |		e minor
+d  e  f | A  C   |d  e  f | A  C   |		d major (60 measures per minute) (drums: x xx  x |xxx X   |..., x: bass drum: X: snare)
+d   |A       |        |        |Afefefed|d  c  ab|        |	d major (#2)
+G  E  F | D      |c cCc C |cBgecgB |G  E  F | D      |c cCc C |cBgecgB |C       |        |    g g |A   B   |C       |		c minor (chord on long C: f(low)acgABC) (vocal house a la disclosure)
+fgABCEE |fgABCEE |		f minor (opn-ish sequencer line)
+d(low)aaa|aaad(low)|FG E|    |		d minor (high bass notes)
+(f(low)b)|gB gB fe|e fe   c| e ce ed|e fe    |		b flat minor (kendrick - mortal man?) (chords: g(flat)maj7 - cm(flat)5 - (fBCDE))
+g gG GD |D E(DE) D|B CBC F |ABCBCF|		g minor
+b  bcdef| B  A d |e  ef(low)bg |xxxxooo |		b flat minor (x: bass drum/cymbal/hi-hat/cowbell, o: snare) (7 screaming diz-busters?)
+(def)|A    dAD|A  d dAD|A g   de|fgfe d (def)|A    dAD|A g  gAD|A  g    |		d major
+fA  BA|C C BCE(DE)|   A B A|C C CBBf| CBfCBf |		f sharp minor (based on d major 9 chord, fACDE)
+fBD     |   B (ef) (ef)|        |        |deA     |   f g g|        |      bd|dee     |   f f f|fgg    g| g g gfg|A  A  A |        |A  A  A |        |		b minor (for A use: (dfgA), last chord: (defgA))
+c cbc cb|c cbc   |e c bn cs bn |		c minor
+(Af)|efAfEAfC| AfA   (Af)|efAfE Af|C Ae(AB) BA|E A BC E|  A BC  |E fABC E|  A BCB |		a major
+xxxx A B| B ABCB |xxxx A B| B ABCB |xxxx C D| D CD E |xxxx C D| D CD E |		a major (#2) (faster, tropical feel, with organ, x: snare)
+(BC)E DB|B  Bg|AB ge|(ed)  db|ce ef|f  (ef)(gA)|BAgfe|(fg)f   |		c minor (xtc - ten feet tall)
+eE(eB)(DE)|oDoD|oE(eB)(DE)|oDoD|		e minor (o: bass drum) (mouse on mars?)
+g D BAg fge |d D E BAgAf |e D BAg fge |e D E BAgfed|		g major
+(gede)(gede)(gede)(gede)|(gede)(gede)(gA)g|	e flat minor (fast thrash metal riff)
+ACDADE|AEDADC|ACBABA|fefAB |      |		d minor (math rock, snare click doubles guitar rhythm)
+g g fff |e ef  d |g g fff |e fd dd |b dd g(low)g(low) |e fd dd |b dd g(low)g(low) |e fd    |		g major
+C E EF D|D(gB)DE D B|E(gB)EG FFB|C(eg)CD EDB|BAA(AB) E (BE)| EDDC DE|B E  F F|        |		e major
+aacbcdcg|dcgdcdcd|g(low)acbcdcg|dcgdcedg(low)|		a minor (queensryche)
+eeDeeDeD|eeDeeDeD|fsCsEnCsCsEnCsEn|fsCsEnCsCsEnCsEn|		g minor
+d D dDAd|EDAD DA |d D  A  |D  A    |		d major
+d D A D |A D Afg |d D A D |A D Afg |		d major (#2)
+cccceeee|gggggB D|ddggeeed|ooooxxxx|		c minor (o: bass drum, x: snare)
+(xx)(DE)D(xx)BB(xx)E|D(xx)BC(xx)(DE)D(xx)|(BC)F(xx)(DE)D(xx)BB|(xx)ED(xx)BC(xx)(DE)|		c minor (#2)(repeat riff)(x: ghost note, alternate between a and g(low) for bass note)
+a xxdeA |ag gedcd|a xxdeA |ag gedcd|		a minor (bassline) (slide between d and e) (see line woman)
+f  (fd)cdfA|C       |g  (gg)Agge|c f (ef)(ed)(ca)(cd)|		f major
+BCA |BAfdca|bca |CAfECA|BCA |		d major (tortoise?)
+B C(BB)| B(CD)F|C D(BB)| B(CD)F|C D(gB)| B(CD)F|C D(gB)| B(CD)F|		b flat major
+(ef) AfECAg| gACCBBe|(ef) AfECAg| gACCBBe|		f sharp minor
+A   g   |A   B  B|BCA   Ag|gA(ef)  ccc|f   c   |(fg)   e  B|BCA   Ag|gA(ef)     |		f sharp minor
+f DDD CC|C AAA fA|  fA E A|AffE A f|		b minor
+dgdBdB|dgdBdB|(gA)(BD)    |     (BA)|(ge)     |  gebd|		g major (first part: g major, second part: very quiet high-pitched xylophone, third part: g minor)
+ g  B | A  fn |   cdsd|b     |		g major (#2) (alternatively: gs  C | B  fn |)
+oxox(oo)(xo)ox|oxox(oo)(xo)ox|B   g   |e   d b |oxox(oo)(xo)ox|oxox(oo)(xo)ox|B   g   |e   d b |oxox(oo)(xo)ox|oxox(oo)(xo)ox|(gA)       |oxox(oo)(xo)ox|(gA)       |oxox(oo)(xo)ox|B   g   |e   d b |		e flat major (o: bass drum, x: snare drum)
+eex(bc)eex(bc)|eBxg ed(bc)|	c minor
+EEDDBBgg|fgcfgce |		c minor (#2)
+ggggg gf|fg g    |AAAAA Ag|gA A    |bcBg e c|Bg ec   |bcBg e c|Bg ec   |	c minor (#3)
+fBDAAgCA|AgBgABA |		b minor (pink turns to blue?)
+B C |CDD A   |CDDAA   |BCC g   |BCCggff |B B fB E| B f f f|B B fB E| B ff f |		f minor
+AEDACAA(gA)| EDACAA(AB)| FCBCBB(AB)| FCBCBB |
+ ABD ABD| ABD ABD|E  B  A |A B(high) A(high) G |F B D B |A g f g |f  e    |f e d c |b B D B |A g f g |As   A   |g   e   |
+C CgD Dg|G B(high)G g(low)(cd) |
+e  f  g |f  d  b |de      |        |e  f  g |f  d  b |de       |      B |C  C  C |      D |B Ag AB |      B |C  C  C |C  C  C |BCB     |		e minor
+(BB)Bgc|B(gB) C|		a minor (bassline: ffffaaaa|cccccccc|eeeeeeee|ddddbbbb)
+b cc    |b cc  cb|b cc    |b cc  cb|b       |D       |C       |B     eg| B      |		c major (regret/seven seas/dagger)
+BBB BBB |BC C  A |(BC)       |A       |		b minor (something i learned today)
+C  A  e |f A a d |c a fede|b d   d |
+C D E|F E D CD|D  C C D|(gA) g g fg|g       |
+cabc abc| abf (ff)fe|A g f e |cabf (ff)fe|		a major
+EDBg|(BC) B |CAge|(fg) f |		c minor
+dgdBdB|dgdBdB|(gA)(BD)    |     (BA)|(ge)     |  gebd|dgdBdB|dgdBdB|dgdBdB|dgdBdB|g  B  |A  fn  |      |   cdsd|b     |		g major (alternate: As  g  |e     |...cdsd|b)
+e e(ee)fgn b|eee(ee)fgn b|e d cn bn |b a g en |		e flat minor (very fast) (flo rida - low)
+b  f  g   |f f g   |bc f  g   |f f g   |		e major
+bbbdbde| bd(de) (de)b |(DC)(BA)(BA)(fe)(Af)(ed)(fe)(db)|(ed)(ba)(db)(de)(fA)(fe)(fne)(db)|		b minor
+b bbbf A|        |bbdbdC A|        |		b minor (#2)
+a d eeee| eeeeeee|eee eeee| eeeeeee|		d major
+e ABB B |BAA A A |A  AB gf|    edd |		e minor
+B(AB)|CBfb|  B(AB)|CBfd|  B(AB)|CBfe|  e(de)|fedb|		b minor (bedhead - powder)
+AAABB ab|cccddcc |fffgg ab|cccddcc |		a major
+deAddeBd|deAdeBed|		d major
+c cA A|cA A A|b bf f|bg g g|g(low) g(low)a a|g(low)a a a|a aA A|aA A A|		g major (modest mouse? a to fade in?)
+f cef ce|fgAB eec|d dff cc|dccd dc |		f minor
+d f fdfC| ddf ee |b d dbdC| abf ee |		d minor
+BBB B C |A   g cg| f    cc|ggcg    |BB B  C |D   g Ag|  g     |f       |		f minor
+d B B AB| D ddeg |A eg    |BAAggeeg|		g major
+eAgE eA |eAgE eB g |fAgE eA |fAgE eB g |	a major (alternate between 3/8, 4/8, 5/8, 6/8)
+ccdg|(xo)xo(oo)|ddfg|(xo)xo(oo)|ee(ef)g|(xo)xo(oo)|e(low)(de)g |(ef)(gf)(ed)d|		g major (x: bass drum, o: snare) (cocteau twins - carolyn's fingers?)
+C BCE  C|CBC(EF) E C|C BCE  C|CBC(EF) E C|Bn BnCE  C|CBnCF EDE|(FE)(CE)(FE)(CE)(FE)(CE)(FE)(CE)|GFEFEDEF|		c minor (preceded by 8 bar improvised intro, then fermata G and count-off)
+fgf |fgf |fgfg|fbd |fgf |fgf |Agfg|fbd |		d major (ooh it's kinda crazy)
+gggg|gggg|BgB(gD)|(DC)(CD)(DC)C|		g major (new wave feel)
+e eBB BE|EBBAABB |A ABBAAE|EBBAABB |		e major
+fA|B   |C  B|  Af| C  |  fA|B   |C  B|  Af| e  |		b minor (played slowly over fast thrashing drums, like a love supreme)
+EEEEDDDD|CCCCAAAA|fg    ff|      ff|FFFFEEEE|DDDDCCCC|CBAC DCB|        |		a major
+E CBCE (CD)|  CBB |C BBBC (fg)|  f f |gAe ecc(fg)|  d d |gAe ecc(fg)|  d d |		c minor
+fB E B E| B E B B| f E B E| B E B B|gg F G E|        |   C D B|        |    gB B| B  As BB|        |		b minor
+d dg g|B g d |de g g|C g e |d gB B|B g d |e gC C|C g e |		g major
+(DC)DDD|(DC)DDD|(DC)DDD|(DC)DFD|	g minor (bass: g...C.B.A...f.e.) (elliot smith - wouldn't mama be proud)
+cce|eff f e |A ge eef|fgbb bbe|decebcce|eff f e |A ge eef|g   e   |d   cscce|eff fee |B    cce|eff f e |B    cce|eff f e |A gf ee |e       |		e flat major
+c B |A g |f e |d(dd)(de)(db)|b  a|bede|d  c|(cnd)(fA) g|		c sharp minor
+g  ff  g|gA f cdf|g  ff  g|BAgf cdf|		f sharp major (joni mitchell - conversation)
+g f ebbc| g  g(low)abb| aa aabc| egfebab|	e minor
+BBBfAAAf|gggdfffd|efgeDgB |efgeDgB |		b major
+F E    C| A     C| E      |		a flat major (bassline: a(ee)a(ee)a(ea) e|, can use e natural) (wind on wind?)
+B B B BB| B  C C |B       |        |B B B BB| B BC D |B       |    E D |(AB) A     |    A B |C      B|       B|        |		e minor
+f   fgA |A   AgA |Bn   A   |f   A   |d   fgA |A   AgA |Cs   Bn   |g   A   |		d minor
+CDCD |D   C   |Bn   A   |f fffgA |A  CDCD |F   E   |Bn   A   |B BBBA Cs| g ggfed|		d minor (#2) (there's nothing to say) (yardbirds - for your love)
+ddd(gA) gf |ddd(ggs) gf |dddf d cs| cscse a  |		d minor (#3)
+cf AE cf| A EE E |cd AC cd| A CC C |f(low)d fB f(low)d| f BB B |cen cB cen| g BB B |		f minor
+c  g  e |e       |e  e  e |e       |d  d  d |d       |cs  cs  cs |bn  bn  bn |		c minor
+eg A B|D (AB) (ef) |fg (ef) b|(ef)d    |bc e g|(ef) d da|(ab) dg(low) (ab)|a     |		e minor
+de|BAde|BAde|BA(ed)A|A de|BAde|BAde|BA(ed)A|A   |		g major (d=(g(low)d),e=(ed),B=(g(low)BA),A=(dA))
+dc|cggc|cggc|cggc|c cb|bggb|bggb|bffb|b bb|csggcs|csggcs|csggcs|cs csd|cggc|cggc|cggc|c de|		g major (#2) (play similar to #1, lots of open strings)
+C E  (fg) (gf)| e cccc |(BC) E  (fg) (gf)| e c(ef)(ec)e |(BC) E (BC) B |(gnf) e c de|e g (cd) dc|        |		c sharp minor (love shack?)
+D  B  g |DD B  g |A  fs  d |AA fs  d |  C C B |A BA  g |g  ABD G|   g    |		g minor
+c  efe f| f fA C |C  efe f| f AC E |E       |		c major
+g(Ae)  |E   |D   |C   |(fg)(Ac)  |E   |D   |C   |		a major (backing beat: (Xx)(Xx)(ox)(xo), X: bass tom, x: bass tom, quiet, o: snare rim tap)
+(fg) g gA B|  (fg) fee(ef)| ce cbag(low)|aedg(low)aedg(low)|		c sharp minor
+BBBBDBD(DE)| BD(DE) EB |		b minor
+D xxC xC| B  xxxx|AsAsAsAsAsB As|   xxxx |	b minor (x: ghost note)
+b  bde (ef)| A  f (dc) |c  ccd (bc)|       |		b minor (beth orton - stars all seem to weep)
+g(low) dA dA |AB e  d |g(low) dA ED |B DB Ag |c gA gA |AB e  d |c gA gA |ABDB Ad |		g major
+dDA     |      g| fd     |    deg |(gA)  (BA)g   |      ees|f d     |        |		g major (todd rundgren - cold morning light)
+(CD) E |(CD)   C   |(gA)   gAA(BA)| g      |    (fsg) g |(efs)   fs   |fs   gA (BA)| g      |		g minor (drums: xxxxoxxo, x: bass drum, o: snare drum)
+e g B   |A BF C  |g g B   |ABAF C  |d g B   |A BF C  |g g B   |ABAF C  |		g minor (#2)
+f AB  D |  DDDEB |B AB gAB|(AB)E      |		b minor (bassline: 
+b ab ab |aba b f(low)a|b ab ab |aba a   |....)
+D CBC BA|B AfA fe|(ef) A (AB) (ef) |(fA) (AB) (ef)   |		b minor (#2)
+e e e e |e   e e |e   e gB| ge e   |		e minor (electropop)
+bbbdbb|bbbdbdbb|B D F |G D(high) C(high) G |FGFGFG|F       |		b minor (orchestral)
+abcefa|f g(de)(dsd)c|abcefc|f g(de)(cb)b|	a minor (accent on f's)
+deA |CDC     |ABg   d |deg c b |        |	a minor
+g ed g f| gffg ed|g ed g f| gffg ed|		e flat minor (c minor?) (connect)
+b d f |A  eABBC|   eABBE|   eABBC|D C BAA(BC)| (AB)      |		a flat major
+g g gff(ef)| f ef(fg)fe|ecbe cbe|f c     |		c minor
+c b (ef) f |feef (AB) e|e (bc)  c b|cedbcedc|f(low) c (ef) f |feef (AB) B|B       |		c minor (#2)
+(fg) g g gf|fgg(fg)    |(gA) A A Ag|gAA(gA)    |(fg) g g gg|gf f edb|bcB(fg) e c|B(fg) ec bnbnbn|		c minor (#3)
+e(be)Bgegfd|e(be)Bgegfe|E EDD DB|(AB) BAA Ad|		e minor
+e     B |E DBB BD|A     B |BDBAA AB|ge  g A |B BDDEBA|A   B   |BCBCB   |		e minor (#2)
+ABBBBAAB|ABABEFE |fggggffg|fgfggAA |		b minor
+eeeeeeee|BBBBBBBB|ffffffff|AAAAAAAA|bbbbcccc|eeee(Ag)(ec)(bc)(ec)|		e major (tremolo 16th notes)
+CCF(CC)(CC)CFC|CCF(CC)(CC)CFC|BBF(BB)(BB)BFB|ggF(gg)(gg)gFg|		f sharp major
+   A A A| A A f  |A gffeef|		f sharp major (#2)(begin at bar 2 of previous)
+g Cg  |f Cf  |g Cg f|f Cf  |		c major (drums: x o x |o x o |..., x: bass drum, o: snare)
+f f e(de) b| A(ef)(ed)(ed)(de) b|		b minor
+(fg)(fd)(de)(db)(bc)(bg(low))(ab)(ag(low))|g(low) a b d |A AAA AA|gAAAB g |		g major (much faster than it looks)
+c dc dca|(ab) d fee |		b minor
+e B B BC|G CB    |A g f fg|A g A B |e B B BC|F CB  gA| Ag f g |A g f e |		e major
+DnDnDn |CCC(CB)| g(AA)(gg)|(AA)(gg)(AA)(gg)|		e major (#2)
+g Ag A g| Ag f e |g Ag A B| Ag f e |		e major (#3)
+E CD As C| gs gs    |E GFs C E| gs D    |		a minor
+B   |D   |C  A|fE  |		b minor (drums: (ox)(ox)(ox)(ox)|..., o: bass drum, x: hi-hat)
+bcee  bc|eec ef  |bceee ce| ec ef  |		c sharp minor
+g(gf) e b|B BA A|(fg)(gf) e b|B BA A|		e flat major (liz phair - shatter)
+c f AA g| g A g e|        |A ge fe |c f fg g| fe     |A  g  fe|   bce e|  d d dd|   efg d|e d d dd|		f sharp minor
+cf g e b| c baba |d eA ed |d eA ed |cf g e b|b c baa |f e e ce|     aba|cf fee b|b c baba|d eA ed |d eA ed |		f sharp minor (#2) 
+  CC C C|C   D   |  BB B B|B f f   |e ABege |E   C   |e ABege |E   C   |		e minor (start slow, accelerate)
+C CC|CBA f d |    C CC|CBA e c |    C CC|CDC f d |    C CC|CBA e c |		a major (emo?)
+(cd)(ef)|gcgfcnf|d (cd)(ef)|gcgfcnf|d (cd)(ef)|g Bf g|b(ed)c |g Bf (fg)|b(de)c |		c sharp minor (modulate to d sharp minor?)
+c     d     |f  g  f g B |c     d     |f  g  f g B |c     f     |g  f  g f d |g(low)           |		g major (#2) (last chord: cmaj9)
+D  E  |D     |      |      |BDB   |e  B  |      |		g major (#3) ("glide guitar")
+EDCB(gA) |A     |EDCB(gA) |A   B(eg)|      |B(CB)(BC)DB(gA)|  A   |		a minor (cure? tears for fears?)
+(de)cfs(eds)|cfs  |(ffs)(dse)(csds)a|
+G gg    |G gg G Fn|        |EB B    |		g minor
+A B E  A|GAE E   |f B E  f|GCE E   |		a major (a flat major?) (drums: x x o  o|xox o   |, x: bass drum + cymbal bell, o: snare)
+eBDEeBDE|deBF  D |		e minor (bassline)
+AD      |AE    AB|C aC aG |        |AD      |AE    AB|C BA gg |  a c g |		g major (drums: xxoxxxox|..., x: bass drum, o: snare)
+BBCC|A(high)(A(high)G)G(GE)|E(BC)  |(GA(high))(A(high)G)G(GE)|ECCB| (Cf)(fsg) |    |		e flat major
+cBBB    |de g  d |cBBB    |de g  d |aAAA    |de g  d |aAAA    |de g  d |		c major (drums: x  xo x |x xxo x |..., x: bass drum, o: snare)
+ef E fA |g eE EB |BC A(high) A(high)(BC)B|B BG GBA|A fC Cf |d fC CA |g eE EB |B gG GB |	f sharp minor
+ddd|c dA fd |f(low)  f(low) ddd|c dA fd |f(low)  f(low) bbb|c  c cbc|df(low) f(low) ddd|c  c cbc|df(low) f(low)    |		f sharp minor (drum machine: x o x o |..., x: bass, o: snare)
+ff fA f |ooXoooXo|ff fA f |c f fn   |ff fA f |  f ef  |ff fA f |c f fn   |		f sharp minor (o: tom, X: hi-hat)
+CCxxC   |BBxxB   |A B A fg| ec     |		f sharp minor (#2) (x: ghost notes)
+ffgBgF| EDEDCBB|  BBBC (gA)|  AAABAf| fffgB C| fgfgB C|  BBBC (gA)|  A Af f|		b major
+(g(low)a)|ccdd|eegg|Bg (de)|  d(g(low)a)|		c major
+e f|EF E  CnBA|B  CC    |         |      e f|BCB   CnBA|fA       |		a major (slow blues/soul; srv?)
+
